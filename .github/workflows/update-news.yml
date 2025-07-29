@@ -2,7 +2,7 @@ name: 每日自動更新新聞與圖片
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 3"
   workflow_dispatch:
 
 jobs:
