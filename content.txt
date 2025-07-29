@@ -1,3 +1,10 @@
+title: SharpLink Gaming Drops $780 Million on Ethereum in July
+images: 1.jpg,1-1.jpg
+fontSize: 16px
+date: 2025-07-30
+content: <p>無法生成文章內容: SharpLink Gaming Drops $780 Million on Ethereum in July</p><p>原始連結：<a href="https://decrypt.co/332334/sharplink-gaming-drops-780-million-ethereum-july">點此查看</a></p>
+
+---
 title: 比特幣價格觀察：短期上漲勢頭強勁，穩守$119K大關
 images: 19.jpg,19-1.jpg
 fontSize:16px
