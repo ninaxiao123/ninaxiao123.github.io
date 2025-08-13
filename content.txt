@@ -1,3 +1,10 @@
+title: Ford is readying a ‘compelling EV.’ Will that be enough for the stock?
+images: 4.jpg,4-1.jpg
+fontSize: 16px
+date: 2025-08-13
+content: <p>無法生成文章內容: Ford is readying a ‘compelling EV.’ Will that be enough for the stock?</p><p>原始連結：<a href="https://www.marketwatch.com/story/ford-is-readying-a-compelling-ev-will-that-be-enough-for-the-stock-732626e3?mod=mw_rss_topstories">點此查看</a></p>
+
+---
 title: LeMaitre raises 2025 revenue guidance to $251M with 15% organic growth as international launches accelerate
 images: 3.jpg,3-1.jpg
 fontSize: 16px
