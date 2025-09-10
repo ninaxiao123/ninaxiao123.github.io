@@ -1,3 +1,10 @@
+title: These companies could be to self-driving trucks and tractors what Tesla is to cars
+images: 8.jpg,8-1.jpg
+fontSize: 16px
+date: 2025-09-10
+content: <p>無法生成文章內容: These companies could be to self-driving trucks and tractors what Tesla is to cars</p><p>原始連結：<a href="https://www.marketwatch.com/story/the-next-vehicles-to-go-driverless-may-shock-you-and-could-be-a-great-investment-b5dfc4f3?mod=mw_rss_topstories">點此查看</a></p>
+
+---
 title: Financial Services Roundup: Market Talk
 images: 7.jpg,7-1.jpg
 fontSize: 16px
