@@ -1,3 +1,10 @@
+title: Asia markets track Wall Street declines after U.S. Fed chair suggests stocks are overvalued
+images: 10.jpg,10-1.jpg
+fontSize: 16px
+date: 2025-09-24
+content: <p>無法生成文章內容: Asia markets track Wall Street declines after U.S. Fed chair suggests stocks are overvalued</p><p>原始連結：<a href="https://www.cnbc.com/2025/09/24/asia-markets-nikkei-225-nifty-50-kospi.html">點此查看</a></p>
+
+---
 title: Microsoft, Nvidia other tech giants plan over $40 billion of new AI investments in UK
 images: 9.jpg,9-1.jpg
 fontSize: 16px
