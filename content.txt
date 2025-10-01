@@ -1,3 +1,10 @@
+title: Pre-markets Fight Toward the Green with Gov't Shutdown Top of Mind
+images: 11.jpg,11-1.jpg
+fontSize: 16px
+date: 2025-10-01
+content: <p>無法生成文章內容: Pre-markets Fight Toward the Green with Gov't Shutdown Top of Mind</p><p>原始連結：<a href="https://www.nasdaq.com/articles/pre-markets-fight-toward-green-govt-shutdown-top-mind">點此查看</a></p>
+
+---
 title: Asia markets track Wall Street declines after U.S. Fed chair suggests stocks are overvalued
 images: 10.jpg,10-1.jpg
 fontSize: 16px
