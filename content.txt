@@ -1,3 +1,10 @@
+title: Trump’s tariffs on cabinets, furniture and lumber are live today, as trade tensions with China ramp up again
+images: 13.jpg,13-1.jpg
+fontSize: 16px
+date: 2025-10-15
+content: <p>無法生成文章內容: Trump’s tariffs on cabinets, furniture and lumber are live today, as trade tensions with China ramp up again</p><p>原始連結：<a href="https://www.marketwatch.com/story/trumps-tariffs-on-cabinets-furniture-and-lumber-are-live-today-as-trade-tensions-with-china-ramp-up-again-556e5ff4?mod=mw_rss_topstories">點此查看</a></p>
+
+---
 title: Markets Take a Break from Setting New All-Time Highs
 images: 12.jpg,12-1.jpg
 fontSize: 16px
