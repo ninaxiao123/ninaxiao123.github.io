@@ -1,3 +1,10 @@
+title: Berkshire’s stock presents Buffett with a ‘golden cross’ as his retirement nears
+images: 14.jpg,14-1.jpg
+fontSize: 16px
+date: 2025-10-22
+content: <p>無法生成文章內容: Berkshire’s stock presents Buffett with a ‘golden cross’ as his retirement nears</p><p>原始連結：<a href="https://www.marketwatch.com/story/berkshires-stock-presents-buffett-with-a-golden-cross-as-his-retirement-nears-86ed0d20?mod=mw_rss_topstories">點此查看</a></p>
+
+---
 title: Trump’s tariffs on cabinets, furniture and lumber are live today, as trade tensions with China ramp up again
 images: 13.jpg,13-1.jpg
 fontSize: 16px
