@@ -1,3 +1,10 @@
+title: SoftBank shares plunge over 13% as Asian AI-linked stocks slide on valuation jitters
+images: 16.jpg,16-1.jpg
+fontSize: 16px
+date: 2025-11-05
+content: <p>無法生成文章內容: SoftBank shares plunge over 13% as Asian AI-linked stocks slide on valuation jitters</p><p>原始連結：<a href="https://www.cnbc.com/2025/11/05/softbank-ai-stocks-slide-on-valuation-jitters-.html">點此查看</a></p>
+
+---
 title: SK Hynix record third-quarter profit sends shares higher, boosting stock rally to 210% this year
 images: 15.jpg,15-1.jpg
 fontSize: 16px
