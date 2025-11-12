@@ -1,3 +1,10 @@
+title: SNAP: Trump admin gets longer Supreme Court pause on order it pay full food stamp benefits
+images: 17.jpg,17-1.jpg
+fontSize: 16px
+date: 2025-11-12
+content: <p>無法生成文章內容: SNAP: Trump admin gets longer Supreme Court pause on order it pay full food stamp benefits</p><p>原始連結：<a href="https://www.cnbc.com/2025/11/11/snap-supreme-court-trump-government-shutdown.html">點此查看</a></p>
+
+---
 title: SoftBank shares plunge over 13% as Asian AI-linked stocks slide on valuation jitters
 images: 16.jpg,16-1.jpg
 fontSize: 16px
