@@ -1,3 +1,10 @@
+title: Nvidia’s stock drops on Google fears. Are investors missing the point?
+images: 19.jpg,19-1.jpg
+fontSize: 16px
+date: 2025-11-26
+content: <p>無法生成文章內容: Nvidia’s stock drops on Google fears. Are investors missing the point?</p><p>原始連結：<a href="https://www.marketwatch.com/story/nvidias-stock-drops-on-google-fears-are-investors-missing-the-point-f38b39a4?mod=mw_rss_topstories">點此查看</a></p>
+
+---
 title: Pre-markets Pick Up Where Thursday Left Off: Down
 images: 18.jpg,18-1.jpg
 fontSize: 16px
