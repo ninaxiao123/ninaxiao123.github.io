@@ -1,3 +1,10 @@
+title: Holiday Shopping Gets Off to a Good Start
+images: 20.jpg,20-1.jpg
+fontSize: 16px
+date: 2025-12-03
+content: <p>無法生成文章內容: Holiday Shopping Gets Off to a Good Start</p><p>原始連結：<a href="https://www.nasdaq.com/articles/holiday-shopping-gets-good-start">點此查看</a></p>
+
+---
 title: Nvidia’s stock drops on Google fears. Are investors missing the point?
 images: 19.jpg,19-1.jpg
 fontSize: 16px
