@@ -1,3 +1,10 @@
+title: Oracle's AI-fueled debt load has investors on edge ahead of quarterly earnings
+images: 21.jpg,21-1.jpg
+fontSize: 16px
+date: 2025-12-10
+content: <p>無法生成文章內容: Oracle's AI-fueled debt load has investors on edge ahead of quarterly earnings</p><p>原始連結：<a href="https://www.cnbc.com/2025/12/09/oracles-ai-fueled-debt-load-has-investors-on-edge-ahead-of-earnings.html">點此查看</a></p>
+
+---
 title: Holiday Shopping Gets Off to a Good Start
 images: 20.jpg,20-1.jpg
 fontSize: 16px
