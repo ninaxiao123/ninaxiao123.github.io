@@ -1,3 +1,10 @@
+title: Copper Giant upsizes private placement to $12 mln
+images: 23.jpg,23-1.jpg
+fontSize: 16px
+date: 2025-12-24
+content: <p>無法生成文章內容: Copper Giant upsizes private placement to $12 mln</p><p>原始連結：<a href="https://seekingalpha.com/news/4534923-copper-giant-upsizes-private-placement-to-12-mln?source=generic_rss">點此查看</a></p>
+
+---
 title: Final Full Trading Week of 2025 Filled with Data
 images: 22.jpg,22-1.jpg
 fontSize: 16px
