@@ -1,4 +1,11 @@
 title: Comex Gold, Silver Settle Lower
+images: 25.jpg,25-1.jpg
+fontSize: 16px
+date: 2026-01-07
+content: <p>無法生成文章內容: Comex Gold, Silver Settle Lower</p><p>原始連結：<a href="https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main">點此查看</a></p>
+
+---
+title: Comex Gold, Silver Settle Lower
 images: 24.jpg,24-1.jpg
 fontSize: 16px
 date: 2025-12-31
