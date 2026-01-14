@@ -1,3 +1,10 @@
+title: CPI Remains +2.7%, Q4 Earnings Begin with JPM, DAL
+images: 26.jpg,26-1.jpg
+fontSize: 16px
+date: 2026-01-14
+content: <p>無法生成文章內容: CPI Remains +2.7%, Q4 Earnings Begin with JPM, DAL</p><p>原始連結：<a href="https://www.nasdaq.com/articles/cpi-remains-27-q4-earnings-begin-jpm-dal">點此查看</a></p>
+
+---
 title: Comex Gold, Silver Settle Lower
 images: 25.jpg,25-1.jpg
 fontSize: 16px
