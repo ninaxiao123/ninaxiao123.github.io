@@ -1,3 +1,10 @@
+title: SoundThinking targets 15% ARR growth in 2026 as it strengthens sales leadership and expands SafePointe
+images: 33.jpg,33-1.jpg
+fontSize: 16px
+date: 2026-03-04
+content: <p>無法生成文章內容: SoundThinking targets 15% ARR growth in 2026 as it strengthens sales leadership and expands SafePointe</p><p>原始連結：<a href="https://seekingalpha.com/news/4560502-soundthinking-targets-15-percent-arr-growth-in-2026-as-it-strengthens-sales-leadership-and?source=generic_rss">點此查看</a></p>
+
+---
 title: Workday outlines 12%–13% FY ’27 subscription revenue growth while advancing agentic AI adoption
 images: 32.jpg,32-1.jpg
 fontSize: 16px
