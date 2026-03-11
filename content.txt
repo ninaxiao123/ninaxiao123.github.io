@@ -1,3 +1,10 @@
+title: Pre-Markets Take Cues from Spot Oil Prices
+images: 34.jpg,34-1.jpg
+fontSize: 16px
+date: 2026-03-11
+content: <p>無法生成文章內容: Pre-Markets Take Cues from Spot Oil Prices</p><p>原始連結：<a href="https://www.nasdaq.com/articles/pre-markets-take-cues-spot-oil-prices">點此查看</a></p>
+
+---
 title: SoundThinking targets 15% ARR growth in 2026 as it strengthens sales leadership and expands SafePointe
 images: 33.jpg,33-1.jpg
 fontSize: 16px
