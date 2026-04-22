@@ -1,3 +1,10 @@
+title: Stock Market News for Apr 20, 2026
+images: 40.jpg,40-1.jpg
+fontSize: 16px
+date: 2026-04-22
+content: <p>無法生成文章內容: Stock Market News for Apr 20, 2026</p><p>原始連結：<a href="https://www.nasdaq.com/articles/stock-market-news-apr-20-2026">點此查看</a></p>
+
+---
 title: Stocks Sink in Broad AI Rout Sparked by China's DeepSeek
 images: 39.jpg,39-1.jpg
 fontSize: 16px
