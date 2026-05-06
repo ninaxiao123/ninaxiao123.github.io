@@ -1,3 +1,10 @@
+title: Super Micro’s stock surges as Wall Street cheers its margin recovery
+images: 42.jpg,42-1.jpg
+fontSize: 16px
+date: 2026-05-06
+content: <p>無法生成文章內容: Super Micro’s stock surges as Wall Street cheers its margin recovery</p><p>原始連結：<a href="https://www.marketwatch.com/story/super-micros-stock-surges-as-wall-street-cheers-a-margin-recovery-80f17361?mod=mw_rss_topstories">點此查看</a></p>
+
+---
 title: Starbucks raises FY2026 guidance to 5%+ global comps and $2.25-$2.45 EPS as China deal closes
 images: 41.jpg,41-1.jpg
 fontSize: 16px
