@@ -1,3 +1,10 @@
+title: My retirement fund is like an AI version of me. It keeps working when I’m not able to.
+images: 43.jpg,43-1.jpg
+fontSize: 16px
+date: 2026-05-13
+content: <p>無法生成文章內容: My retirement fund is like an AI version of me. It keeps working when I’m not able to.</p><p>原始連結：<a href="https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories">點此查看</a></p>
+
+---
 title: Super Micro’s stock surges as Wall Street cheers its margin recovery
 images: 42.jpg,42-1.jpg
 fontSize: 16px
