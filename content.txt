@@ -1,3 +1,10 @@
+title: Anthropic’s latest hire led AI at Tesla, worked at OpenAI and received high praise from Elon Musk
+images: 44.jpg,44-1.jpg
+fontSize: 16px
+date: 2026-05-20
+content: <p>無法生成文章內容: Anthropic’s latest hire led AI at Tesla, worked at OpenAI and received high praise from Elon Musk</p><p>原始連結：<a href="https://www.marketwatch.com/story/anthropics-latest-hire-led-ai-at-tesla-worked-at-openai-and-received-high-praise-from-elon-musk-e03877a7?mod=mw_rss_topstories">點此查看</a></p>
+
+---
 title: My retirement fund is like an AI version of me. It keeps working when I’m not able to.
 images: 43.jpg,43-1.jpg
 fontSize: 16px
