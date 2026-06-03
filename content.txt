@@ -1,3 +1,10 @@
+title: Supreme Court allows Alabama to use congressional map that dilutes Black vote
+images: 46.jpg,46-1.jpg
+fontSize: 16px
+date: 2026-06-03
+content: <p>無法生成文章內容: Supreme Court allows Alabama to use congressional map that dilutes Black vote</p><p>原始連結：<a href="https://www.cnbc.com/2026/06/03/supreme-court-alabama-congress-map-redistricting-black.html">點此查看</a></p>
+
+---
 title: Taiwan cracks down on smuggling of Nvidia AI chips to China via Japan: report
 images: 45.jpg,45-1.jpg
 fontSize: 16px
