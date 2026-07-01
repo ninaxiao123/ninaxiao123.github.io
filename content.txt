@@ -1,3 +1,10 @@
+title: Your aging parent has a new romance. Here’s how to protect your inheritance — without looking greedy.
+images: 50.jpg,50-1.jpg
+fontSize: 16px
+date: 2026-07-01
+content: <p>無法生成文章內容: Your aging parent has a new romance. Here’s how to protect your inheritance — without looking greedy.</p><p>原始連結：<a href="https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories">點此查看</a></p>
+
+---
 title: Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat
 images: 49.jpg,49-1.jpg
 fontSize: 16px
