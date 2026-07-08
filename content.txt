@@ -1,3 +1,10 @@
+title: Dow Trades at All-Time Highs in Pre-Market
+images: 51.jpg,51-1.jpg
+fontSize: 16px
+date: 2026-07-08
+content: <p>無法生成文章內容: Dow Trades at All-Time Highs in Pre-Market</p><p>原始連結：<a href="https://www.nasdaq.com/articles/dow-trades-all-time-highs-pre-market">點此查看</a></p>
+
+---
 title: Your aging parent has a new romance. Here’s how to protect your inheritance — without looking greedy.
 images: 50.jpg,50-1.jpg
 fontSize: 16px
