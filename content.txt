@@ -1,3 +1,10 @@
+title: Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.
+images: 54.jpg,54-1.jpg
+fontSize: 16px
+date: 2026-07-29
+content: <p>無法生成文章內容: Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.</p><p>原始連結：<a href="https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories">點此查看</a></p>
+
+---
 title: Hancock Whitney outlines 2026 outlook with One Florida, including 8%-9% net interest income growth
 images: 53.jpg,53-1.jpg
 fontSize: 16px
