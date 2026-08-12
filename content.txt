@@ -1,3 +1,10 @@
+title: Financial Services Roundup: Market Talk
+images: 56.jpg,56-1.jpg
+fontSize: 16px
+date: 2026-08-12
+content: <p>無法生成文章內容: Financial Services Roundup: Market Talk</p><p>原始連結：<a href="https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main">點此查看</a></p>
+
+---
 title: Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher
 images: 55.jpg,55-1.jpg
 fontSize: 16px
