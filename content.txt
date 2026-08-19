@@ -1,3 +1,10 @@
+title: Iridex reaffirms 2026 revenue guidance of $51m-$53m while highlighting working-capital build tied to headquarters relocation
+images: 57.jpg,57-1.jpg
+fontSize: 16px
+date: 2026-08-19
+content: <p>無法生成文章內容: Iridex reaffirms 2026 revenue guidance of $51m-$53m while highlighting working-capital build tied to headquarters relocation</p><p>原始連結：<a href="https://seekingalpha.com/news/4634593-iridex-reaffirms-2026-revenue-guidance-of-51m-53m-while-highlighting-working-capital-build?source=generic_rss">點此查看</a></p>
+
+---
 title: Financial Services Roundup: Market Talk
 images: 56.jpg,56-1.jpg
 fontSize: 16px
