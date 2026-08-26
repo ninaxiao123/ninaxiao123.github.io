@@ -1,3 +1,10 @@
+title: ‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?
+images: 58.jpg,58-1.jpg
+fontSize: 16px
+date: 2026-08-26
+content: <p>無法生成文章內容: ‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?</p><p>原始連結：<a href="https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories">點此查看</a></p>
+
+---
 title: Iridex reaffirms 2026 revenue guidance of $51m-$53m while highlighting working-capital build tied to headquarters relocation
 images: 57.jpg,57-1.jpg
 fontSize: 16px
