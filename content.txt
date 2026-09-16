@@ -1,3 +1,10 @@
+title: ‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?
+images: 61.jpg,61-1.jpg
+fontSize: 16px
+date: 2026-09-16
+content: <p>無法生成文章內容: ‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?</p><p>原始連結：<a href="https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories">點此查看</a></p>
+
+---
 title: Stock Market News for Sep 8, 2026
 images: 60.jpg,60-1.jpg
 fontSize: 16px
